@@ -2,6 +2,7 @@
   <div class="hello">
     <language-switcher/>
     <h1>{{ msg }}</h1>
+    <translate tag="h2" :t-n="count" t-plural="%{count} cars">%{count} car</translate>
     <translate t-context="TITLE" tag="h2">Essential Links</translate>
     <ul>
       <li>
@@ -100,6 +101,11 @@ export default {
   name: 'HelloWorld',
   components: {
     LanguageSwitcher
+  },
+  data () {
+    return {
+      count: 2
+    }
   },
   computed: {
     msg () {
