@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: src/components/HelloWorld.vue:84
+msgid "awesome-vue"
+msgstr ""
+
+#: src/components/HelloWorld.vue:26
+msgid "Community Chat"
+msgstr ""
+
+#: src/components/HelloWorld.vue:8
+msgid "Core Docs"
+msgstr ""
+
+#: src/components/HelloWorld.vue:45
+msgid "Docs for This Template"
+msgstr ""
+
+#: src/components/HelloWorld.vue:17
+msgid "Forum"
+msgstr ""
+
+#: src/components/HelloWorld.vue:35
+msgid "Twitter"
+msgstr ""
+
+#: src/components/HelloWorld.vue:75
+msgid "vue-loader"
+msgstr ""
+
+#: src/components/HelloWorld.vue:57
+msgid "vue-router"
+msgstr ""
+
+#: src/components/HelloWorld.vue:66
+msgid "vuex"
+msgstr ""
+
+#: src/components/HelloWorld.vue:106
+msgid "Welcome to Your Vue.js App"
+msgstr ""
+
+#: src/components/HelloWorld.vue:5
+msgctxt "TITLE"
+msgid "Essential Links"
+msgstr ""

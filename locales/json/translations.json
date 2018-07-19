@@ -1,0 +1,221 @@
+{
+	"en": {
+		"TITLE": {
+			"Essential Links": {
+				"msgid": "Essential Links",
+				"msgctxt": "TITLE",
+				"msgstr": [
+					""
+				]
+			}
+		},
+		"$$NOCONTEXT": {
+			"awesome-vue": {
+				"msgid": "awesome-vue",
+				"msgstr": [
+					""
+				]
+			},
+			"Community Chat": {
+				"msgid": "Community Chat",
+				"msgstr": [
+					""
+				]
+			},
+			"Core Docs": {
+				"msgid": "Core Docs",
+				"msgstr": [
+					""
+				]
+			},
+			"Docs for This Template": {
+				"msgid": "Docs for This Template",
+				"msgstr": [
+					""
+				]
+			},
+			"Forum": {
+				"msgid": "Forum",
+				"msgstr": [
+					""
+				]
+			},
+			"Twitter": {
+				"msgid": "Twitter",
+				"msgstr": [
+					""
+				]
+			},
+			"vue-loader": {
+				"msgid": "vue-loader",
+				"msgstr": [
+					""
+				]
+			},
+			"vue-router": {
+				"msgid": "vue-router",
+				"msgstr": [
+					""
+				]
+			},
+			"vuex": {
+				"msgid": "vuex",
+				"msgstr": [
+					""
+				]
+			},
+			"Welcome to Your Vue.js App": {
+				"msgid": "Welcome to Your Vue.js App",
+				"msgstr": [
+					""
+				]
+			}
+		}
+	},
+	"de": {
+		"TITLE": {
+			"Essential Links": {
+				"msgid": "Essential Links",
+				"msgctxt": "TITLE",
+				"msgstr": [
+					"Wesentliche Links"
+				]
+			}
+		},
+		"$$NOCONTEXT": {
+			"awesome-vue": {
+				"msgid": "awesome-vue",
+				"msgstr": [
+					""
+				]
+			},
+			"Community Chat": {
+				"msgid": "Community Chat",
+				"msgstr": [
+					"Community-Chat"
+				]
+			},
+			"Core Docs": {
+				"msgid": "Core Docs",
+				"msgstr": [
+					"Core-Docs"
+				]
+			},
+			"Docs for This Template": {
+				"msgid": "Docs for This Template",
+				"msgstr": [
+					"Docs für diese Vorlage"
+				]
+			},
+			"Forum": {
+				"msgid": "Forum",
+				"msgstr": [
+					""
+				]
+			},
+			"Twitter": {
+				"msgid": "Twitter",
+				"msgstr": [
+					""
+				]
+			},
+			"vue-loader": {
+				"msgid": "vue-loader",
+				"msgstr": [
+					""
+				]
+			},
+			"vue-router": {
+				"msgid": "vue-router",
+				"msgstr": [
+					""
+				]
+			},
+			"vuex": {
+				"msgid": "vuex",
+				"msgstr": [
+					""
+				]
+			},
+			"Welcome to Your Vue.js App": {
+				"msgid": "Welcome to Your Vue.js App",
+				"msgstr": [
+					""
+				]
+			}
+		}
+	},
+	"bs": {
+		"TITLE": {
+			"Essential Links": {
+				"msgid": "Essential Links",
+				"msgctxt": "TITLE",
+				"msgstr": [
+					"Osnovni linkovi"
+				]
+			}
+		},
+		"$$NOCONTEXT": {
+			"awesome-vue": {
+				"msgid": "awesome-vue",
+				"msgstr": [
+					""
+				]
+			},
+			"Community Chat": {
+				"msgid": "Community Chat",
+				"msgstr": [
+					"Chat zajednice"
+				]
+			},
+			"Core Docs": {
+				"msgid": "Core Docs",
+				"msgstr": [
+					"Osnovna dokumentacija"
+				]
+			},
+			"Docs for This Template": {
+				"msgid": "Docs for This Template",
+				"msgstr": [
+					"Dokumentacija za ovaj template"
+				]
+			},
+			"Forum": {
+				"msgid": "Forum",
+				"msgstr": [
+					""
+				]
+			},
+			"Twitter": {
+				"msgid": "Twitter",
+				"msgstr": [
+					""
+				]
+			},
+			"vue-loader": {
+				"msgid": "vue-loader",
+				"msgstr": [
+					""
+				]
+			},
+			"vue-router": {
+				"msgid": "vue-router",
+				"msgstr": [
+					""
+				]
+			},
+			"vuex": {
+				"msgid": "vuex",
+				"msgstr": [
+					""
+				]
+			},
+			"Welcome to Your Vue.js App": {
+				"msgid": "Welcome to Your Vue.js App",
+				"msgstr": [
+					"Dobro došli u Vašu Vue.js aplikaciju"
+				]
+			}
+		}
+	}
+}
